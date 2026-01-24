@@ -1,18 +1,19 @@
 <?xml version="1.0"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <squad nick="UVO">
-    <name>Unidade Vetor do Ocaso</name>
-    <email>seu-email@provedor.com</email>
+    <name>UNIDADE VETOR OCASO</name>
+    <email>email@provedor.com</email>
     <web>https://www.bohemia.net</web>
     <picture>Logo_UVO-ESCUD-512px.paa</picture>
-    <title>[U V O]</title>
+    <title>[U V O] - T i m e  T á t i c o -</title>
 
     <member id="76561199850652965" nick="Dolph">
-        <name>N/A</name>
+        <name>Gustavo</name>
         <email>N/A</email>
         <icq>N/A</icq>
         <remark>Major</remark>
     </member>
 
     </squad>
+
 
