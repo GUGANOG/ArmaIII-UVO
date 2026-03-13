@@ -3,7 +3,7 @@
 <squad nick="UVO">
     <name>[UNIDADE VETOR OCASO]</name>
     <email>-</email>
-    <web>https://www.bohemia.net</web>
+    <web>https://discord.gg/FtpmzZ5cET</web>
     <picture>Logo_UVO-QUAD-512px.paa</picture>
     <title>- T I M E   T Á T I C O -</title>
 
@@ -14,35 +14,39 @@
         <remark>Major</remark>
     </member>
 
+    <member id="931939488" nick="Poiva">
+        <name>Poiva</name>
+        <email>-</email>
+        <icq>DISCORD: </icq>
+        <remark>Capitão</remark>
+    </member>
+
     <member id="76561198300646636" nick="danni">
         <name>Danni</name>
         <email>-</email>
         <icq>DISCORD: - </icq>
-        <remark>Capitão</remark>
+        <remark>Tenente</remark>
     </member>
 
     <member id="76561199174539013" nick="kiosk">
         <name>Kiosk</name>
         <email>-</email>
         <icq>DISCORD: - </icq>
-        <remark>Capitão</remark>
+        <remark>Tenente</remark>
     </member>
 
     <member id="76561198873066923" nick="santo">
         <name>Santo</name>
         <email>-</email>
         <icq>DISCORD: - </icq>
-        <remark>Capitão</remark>
+        <remark>Tenente</remark>
     </member>
 
     <member id="76561198154336802" nick="Chronos">
         <name>Chronos</name>
         <email>-</email>
         <icq>DISCORD: - </icq>
-        <remark>Capitão</remark>
+        <remark>Tenente</remark>
     </member>
      
 </squad>
-
-
-
