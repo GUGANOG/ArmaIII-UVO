@@ -5,7 +5,7 @@
     <email>-</email>
     <web>https://discord.gg/tRRaVdMhp3</web>
     <picture>Aimore.paa</picture>
-    <title>- G P T  A I M O R É -</title>
+    <title>- G p t  A I M O R É -</title>
 
     <member id="76561199850652965" nick="Dolph">
         <name>Gustavo</name>
@@ -14,17 +14,17 @@
         <remark>Major</remark>
     </member>
 
-    <member id="76561198112211475" nick="Jean">
-        <name>Jean</name>
-        <email>-</email>
-        <icq>DISCORD: </icq>
-        <remark>Tenente</remark>
-    </member>
-
     <member id="76561198892205216" nick="Poiva">
         <name>Poiva</name>
         <email>-</email>
-        <icq>DISCORD: </icq>
+        <icq>DISCORD: rogeriobt</icq>
+        <remark>Capitão</remark>
+    </member>
+
+    <member id="76561198112211475" nick="Jean">
+        <name>Jean</name>
+        <email>-</email>
+        <icq>DISCORD: casajean8962</icq>
         <remark>Capitão</remark>
     </member>
 
@@ -35,6 +35,13 @@
         <remark>Tenente</remark>
     </member>
 
+    <member id="76561198154336802" nick="Chronos">
+        <name>Chronos</name>
+        <email>-</email>
+        <icq>DISCORD: - </icq>
+        <remark>Tenente</remark>
+    </member>    
+<!--
     <member id="76561199174539013" nick="kiosk">
         <name>Kiosk</name>
         <email>-</email>
@@ -48,12 +55,5 @@
         <icq>DISCORD: - </icq>
         <remark>Tenente</remark>
     </member>
-
-    <member id="76561198154336802" nick="Chronos">
-        <name>Chronos</name>
-        <email>-</email>
-        <icq>DISCORD: - </icq>
-        <remark>Tenente</remark>
-    </member>
-     
+-->
 </squad>
